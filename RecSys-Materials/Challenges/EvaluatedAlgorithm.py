@@ -71,5 +71,5 @@ class EvaluatedAlgorithm:
     
     def GetAlgorithm(self):
         return self.algorithm
-    
+
     
