@@ -87,4 +87,3 @@ for uiid in range(trainSet.n_users):
 # Measure
 print("HR", RecommenderMetrics.HitRate(topN, leftOutTestSet))   
 
-
